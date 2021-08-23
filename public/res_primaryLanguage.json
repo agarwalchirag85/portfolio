@@ -1,0 +1,222 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Chirag Agarwal. An aspiring Software Developer passionate in Full Stack Development, having a year of professional experience in delivering quality code. Worked on frontend framework(React), backend framework(Node.js). I love open source and building side projects. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "QKart Shoping App",
+        "startDate": "2021",
+        "description": "QKart is an E-commerce application made using React.js, Node.js and Mongodb which offering a variety of products to customers to choose from. ",
+        "images": [
+          "images/portfolio/qkart/qkart1.png",
+          "images/portfolio/qkart/qkart2.png",
+          "images/portfolio/qkart/qkart3.png",
+          "images/portfolio/qkart/qkart4.png"
+        ],
+        "url": "https://qkart-frontend-chiragagarwal.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
+          }
+        ]
+      },
+      {
+        "title": "Xflix Video App",
+        "startDate": "2021",
+        "description": "XFlix is a video sharing platform which hosts videos for the world to watch. It also features uploading new videos by using external video links (eg: Youtube) and playing these videos.",
+        "images": [
+          "images/portfolio/xflix/xflix1.png",
+          "images/portfolio/xflix/xflix2.png",
+          "images/portfolio/xflix/xflix3.png",
+          "images/portfolio/xflix/xflix4.png"
+        ],
+        "url": "https://qflix-chirag.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
+          }
+        ]
+      },
+      {
+        "title": "Qtrip Travelling App",
+        "startDate": "2021",
+        "description": "QTrip is a travel website aimed at travellers looking for a multitude of adventures in different cities.",
+        "images": [
+          "images/portfolio/qtrip/qtrip1.png",
+          "images/portfolio/qtrip/qtrip2.png",
+          "images/portfolio/qtrip/qtrip3.png"
+        ],
+        "url": "https://qtrip-dynamic-chiragagarwal.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "REST Countries API",
+        "startDate": "2021",
+        "description": "REST Countries API is an website in which you can see all the countries and there detailed information with Color Theme Switching",
+        "images": [
+          "images/portfolio/restcountry/restcountry1.png",
+          "images/portfolio/restcountry/restcountry2.png",
+          "images/portfolio/restcountry/restcountry3.png"
+        ],
+        "url": "https://restapicountrychirag.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.js"
+          }
+        ]
+      },
+      {
+        "title": "Sending OTP App",
+        "startDate": "2021",
+        "description": "Sending OTP App is a website in which you can send OTP to the list of person verifited with the database ",
+        "images": [
+          "images/portfolio/contactotp/contactotp1.png",
+          "images/portfolio/contactotp/contactotp2.png",
+          "images/portfolio/contactotp/contactotp3.png"
+        ],
+        "url": "https://contact-app-chiragagarwal.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express.js"
+          }
+        ]
+      },
+      {
+        "title": "Geektrust Finding Falcone App",
+        "startDate": "2021",
+        "description": "Finding Falcone App is web application luck based game of finding the falcone king.It is a geekrust frontend coding challenge solution",
+        "images": [
+          "images/portfolio/findingfalcone/findingfalcone1.png",
+          "images/portfolio/findingfalcone/findingfalcone2.png"
+        ],
+        "url": "https://finding-falcone-queen.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.js"
+          },
+          {
+            "class": "devicon-redux-original",
+            "name": "redux"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "TATA CONSULTANCY SERVICES",
+        "title": "Assistant System Engineer",
+        "years": "09.2020 - present",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "Java",
+          "HTML5",
+          "CSS",
+          "MySql"
+        ]
+      },
+      {
+        "company": "Crio.Do",
+        "title": "Student Developer",
+        "years": "02.2021 - 07.2021",
+        "mainTech": [
+          "Full Stack Developer(MERN Stack)"
+        ],
+        "technologies": [
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "JavaScript",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Mongodb"
+        ]
+      }
+    ]
+  }
