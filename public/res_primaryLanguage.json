@@ -13,7 +13,7 @@
       {
         "title": "QKart Shoping App",
         "startDate": "2021",
-        "description": "QKart is an E-commerce application made using React.js, Node.js and Mongodb which offering a variety of products to customers to choose from. ",
+        "description": "QKart is an E-commerce application made using React.js, Node.js and Mongodb offering a variety of products to customers to choose from. ",
         "images": [
           "images/portfolio/qkart/qkart1.png",
           "images/portfolio/qkart/qkart2.png",
@@ -98,7 +98,7 @@
       {
         "title": "REST Countries API",
         "startDate": "2021",
-        "description": "REST Countries API is an website in which you can see all the countries and there detailed information with Color Theme Switching",
+        "description": "REST Countries API is a website in which you can see all the countries and their detailed information with Color Theme Switching",
         "images": [
           "images/portfolio/restcountry/restcountry1.png",
           "images/portfolio/restcountry/restcountry2.png",
@@ -127,7 +127,7 @@
       {
         "title": "Sending OTP App",
         "startDate": "2021",
-        "description": "Sending OTP App is a website in which you can send OTP to the list of person verifited with the database ",
+        "description": "Sending OTP App is a website in which you can send OTP to the list of verified person with the database ",
         "images": [
           "images/portfolio/contactotp/contactotp1.png",
           "images/portfolio/contactotp/contactotp2.png",
@@ -152,7 +152,7 @@
       {
         "title": "Geektrust Finding Falcone App",
         "startDate": "2021",
-        "description": "Finding Falcone App is web application luck based game of finding the falcone king.It is a geekrust frontend coding challenge solution",
+        "description": "Finding Falcone App is a web application luck based game of finding the falcone king.It is a geekrust frontend coding challenge solution.",
         "images": [
           "images/portfolio/findingfalcone/findingfalcone1.png",
           "images/portfolio/findingfalcone/findingfalcone2.png"
